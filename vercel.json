@@ -1,0 +1,66 @@
+{
+  "cleanUrls": true,
+  "trailingSlash": false,
+  "redirects": [
+    {
+      "source": "/index.html",
+      "destination": "/",
+      "statusCode": 308
+    },
+    {
+      "source": "/about.html",
+      "destination": "/about",
+      "statusCode": 308
+    },
+    {
+      "source": "/faq.html",
+      "destination": "/faq",
+      "statusCode": 308
+    },
+    {
+      "source": "/services.html",
+      "destination": "/services",
+      "statusCode": 308
+    },
+    {
+      "source": "/odor-removal-denver.html",
+      "destination": "/odor-removal-denver",
+      "statusCode": 308
+    },
+    {
+      "source": "/pet-odor-removal-denver.html",
+      "destination": "/pet-odor-removal-denver",
+      "statusCode": 308
+    },
+    {
+      "source": "/smoke-odor-removal-denver.html",
+      "destination": "/smoke-odor-removal-denver",
+      "statusCode": 308
+    },
+    {
+      "source": "/marijuana-odor-removal-denver.html",
+      "destination": "/marijuana-odor-removal-denver",
+      "statusCode": 308
+    },
+    {
+      "source": "/mold-odor-removal-denver.html",
+      "destination": "/mold-odor-removal-denver",
+      "statusCode": 308
+    },
+    {
+      "source": "/vehicle-odor-removal-denver.html",
+      "destination": "/vehicle-odor-removal-denver",
+      "statusCode": 308
+    },
+    {
+      "source": "/real-estate-odor-removal-denver.html",
+      "destination": "/real-estate-odor-removal-denver",
+      "statusCode": 308
+    },
+    {
+      "source": "/thank-you.html",
+      "destination": "/thank-you",
+      "statusCode": 308
+    }
+  ]
+}
